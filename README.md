@@ -1,1 +1,1 @@
-# Hi there, it's where i may put my tasks
+# Here, i'll keep and store my weekly tasks.
